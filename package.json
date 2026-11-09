@@ -1,0 +1,23 @@
+{
+  "name": "fsae-mock-tech-inspection-app",
+  "version": "1.0.0",
+  "description": "The mock tech inspection app enables Ravens Racing crew and engineers to assess racecar compliance with FSAE regulations. Using mobile devices, participants can conduct tests and share results in real time, promoting a transparent and collaborative inspection process.",
+  "homepage": "https://github.com/MatthewBFewer/FSAE-Mock-Tech-Inspection-App#readme",
+  "bugs": {
+    "url": "https://github.com/MatthewBFewer/FSAE-Mock-Tech-Inspection-App/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewBFewer/FSAE-Mock-Tech-Inspection-App.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react-native": "^0.88.1"
+  }
+}

@@ -3,3 +3,11 @@ The mock tech inspection app enables Ravens Racing crew and engineers to assess 
 
 Preliminary report:
   https://docs.google.com/document/d/1fk1jzzkDGAcWpC1M_hKkQ2QIKrDfJ_sQ/edit?usp=sharing&ouid=108454795584175589021&rtpof=true&sd=true
+
+# Project Structure:
+### Main Folders:
+- `app/`: for routing
+- `src/`: for reusable components
+- `assets/`: for images/etc
+### Other Subfolders:
+-
