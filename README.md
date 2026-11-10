@@ -7,7 +7,7 @@ Preliminary report:
 # Project Structure:
 ### Main Folders:
 - `app/`: for routing
-- `src/`: for reusable components
+- `src/`: for reusable components/templates
 - `assets/`: for images/etc
 ### Other Subfolders:
 -
